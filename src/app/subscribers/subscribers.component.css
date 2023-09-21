@@ -1,0 +1,9 @@
+.bg-theme-secondary{
+    background-color: rgb(242, 64, 94);
+    color: var(  --secondary-color);
+  }
+.bg-theme-primary{
+      background-color:rgb(252, 116, 137);
+      color: var(  --secondary-color);
+    }
+   
